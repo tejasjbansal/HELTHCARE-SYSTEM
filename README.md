@@ -22,12 +22,32 @@ The goal of the project is to create data pipelines for the Health Care insuranc
 </p>
 
 ## Environment
+
 * Linux (Ubuntu 18.04)
 * Hadoop 2.7.2
 * Spark 2.0.2
 * sqoop 1.4.7
 * python3
 
+## Analytical Queries
+
+### Spark SQL
+- [which disease having maximum number of claims.]
+- [Find those Subscribers having age less than 30 and they subscribe any subgroup]
+- [Find out which group has maximum subgroups.]
+- [Find out hospital which serve most number of patients]
+- [Find out which subgroups subscribe most number of times]
+- [Find out total number of claims which were rejected]
+- [From where most claims are coming (city)]
+- [Which groups of policies subscriber subscribe mostly Government or private]
+- [Average monthly premium subscriber pay to insurance company.]
+- [Find out Which group is most profitable]
+- [List all the patients below age of 18 who admit for cancer]
+- [List patients who have cashless insura0nce and have total charges greater than or equal for Rs. 50,000.]
+- [List female patients over the age of 40 that have undergone knee surgery in the past year]
+
+## License
+This repository is licensed under Apache License 2.0 - see [License](LICENSE.md) for more details
 
 ## Authors
 
