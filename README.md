@@ -49,25 +49,26 @@ The goal of the project is to create data pipelines for the Health Care insuranc
 ## License
 This repository is licensed under Apache License 2.0 - see [License](LICENSE.md) for more details
 
-## Authors
+## Contributors
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://yangxvlin.github.io"><img src="https://avatars2.githubusercontent.com/u/26871369?v=4" width="100px;" alt=""/><br /><sub><b>Tejash</b></sub></a><br /><a href="https://github.com/yangxvlin/comp90024-project2/commits?author=yangxvlin" title="Code">💻</a></td>
+    <td align="center"><a href="http://mrj9990123@gmail.com"><img src="https://avatars2.githubusercontent.com/u/36201915?v=4" width="100px;" alt=""/><br /><sub><b>Abhay</b></sub></a><br /><a href="https://github.com/yangxvlin/comp90024-project2/commits?author=BeginnerRudy" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Sirius-ctrl"><img src="https://avatars0.githubusercontent.com/u/26541600?v=4" width="100px;" alt=""/><br /><sub><b>Arjit</b></sub></a><br /><a href="https://github.com/yangxvlin/comp90024-project2/commits?author=Sirius-ctrl" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/JasonSuMY"><img src="https://avatars3.githubusercontent.com/u/28706782?v=4" width="100px;" alt=""/><br /><sub><b>Prity </b></sub></a><br /><a href="https://github.com/yangxvlin/comp90024-project2/commits?author=JasonSuMY" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Olivia0012"><img src="https://avatars3.githubusercontent.com/u/55537942?v=4" width="100px;" alt=""/><br /><sub><b>Mohit</b></sub></a><br /><a href="https://github.com/yangxvlin/comp90024-project2/commits?author=Olivia0012" title="Code">💻</a></td>
+  </tr>
+</table>
 
-- [@tejasjbansal](https://github.com/tejasjbansal)
-- [Abhay]() 
-- [Arjit]()
-- [Prity]()
-- [Mohit]()
-- [Vikalp]()
-- [Utkarsh]()
-- [Karan]()
-- [Piyush]()
-- [Sumedh]()
-- [summit]()
-- [Aayush]()
-- [Pardeep]()
-- [Rutwick]()
-- [Madhu]()
-- [Khushboo]()
-- [Yuvraj]()
-- [Harshvardhan]()
-- [Aditya]()
-- [Ujjwal]()
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+<table>
+  <tr>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
