@@ -10,23 +10,24 @@ A Health Care insurance company is facing challenges in enhancing its revenue an
 
 The goal of the project is to create data pipelines for the Health Care insurance company which will make the company make appropriate business strategies to enhance their revenue by analyzing customers behaviors and send offers and royalties to customers respectively.
 
-# Major Components
+## Major Components
 
 <p align="center">
 	<a href="#">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark Logo" title="Apache Spark" width=275 hspace=80 />
 	</a>
 	<a href="#">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1280px-Hadoop_logo.svg.png" alt="hadoop" title="hadoop" width ="90" />
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1280px-Hadoop_logo.svg.png" alt="hadoop" title="hadoop" width ="275" />
 	</a>
 </p>
 
-# Environment
+## Environment
 * Linux (Ubuntu 18.04)
 * Hadoop 2.7.2
 * Spark 2.0.2
 * sqoop 1.4.7
 * python3
+
 
 ## Authors
 
