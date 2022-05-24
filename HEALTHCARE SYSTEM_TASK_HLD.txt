@@ -1,0 +1,11 @@
+Use case for healthcare
+1. we have 2 csv file, 2 json file and 1 spreadsheet in the (Linux System).
+2. claims are coming from json files , patient disease,customer details and insuarnce provider are coming form csv files and types of patients are coming from spreadsheet.
+3. track their policies,health insuarance, insuarance provider, patient id, and their claims, types of disease etc.
+4. Clean the data and modify according to the use cases. (Using python)
+5. After cleansing the data create data model and store the data in the RDBMS.
+6. every tables should have 5,6 columns.
+7. After storing the data in the RDBMS perform some more transformation tech and store the result into another tables.
+8. Use the sqoop to import the data from RDBMS to hdfs.
+9. Use some processing engine hive/spark for analytical queries and show the result in visualized form.
+10. For visulization you can use the seaborn/matplotlib libr.
