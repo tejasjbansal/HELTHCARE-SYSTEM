@@ -1,9 +1,3 @@
-![GitHub](https://img.shields.io/github/license/Thomas-George-T/MoviesLens-Analytics-in-Spark-and-Scala?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/Thomas-George-T/MoviesLens-Analytics-in-Spark-and-Scala?style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/Thomas-George-T/MoviesLens-Analytics-in-Spark-and-Scala?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/Thomas-George-T/MoviesLens-Analytics-in-Spark-and-Scala?style=flat)
-![ViewCount](https://views.whatilearened.today/views/github/Thomas-George-T/Movies-Analytics-in-Spark-and-Scala.svg?cache=remove)
-
 # HELTHCARE SYSTEM BIG DATA ANALYTICS
 
 ![shutterstock_400002673-760x475@2x](https://user-images.githubusercontent.com/56173595/170109403-6716a6a5-a7e8-4e4a-883d-97d6072a21c7.jpg)
