@@ -1,0 +1,9 @@
+,col_name,data_type,comment
+0,claim_id,int,
+1,patient_id,int,
+2,disease_name,string,
+3,sub_id,string,
+4,claim_or_rejected,string,
+5,claim_type,string,
+6,claim_amount,double,
+7,claim_date,string,

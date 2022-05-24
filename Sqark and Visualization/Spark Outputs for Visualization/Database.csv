@@ -1,0 +1,9 @@
+,database,tableName,isTemporary
+0,healthcare_system,claims,False
+1,healthcare_system,disease,False
+2,healthcare_system,groups,False
+3,healthcare_system,grp_subgrp,False
+4,healthcare_system,hospital,False
+5,healthcare_system,patient,False
+6,healthcare_system,subgroup,False
+7,healthcare_system,subscriber,False
