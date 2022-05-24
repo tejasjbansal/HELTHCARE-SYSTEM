@@ -13,12 +13,9 @@ The goal of the project is to create data pipelines for the Health Care insuranc
 ## Authors
 
 - [@tejasjbansal](https://github.com/tejasjbansal)
-- [Abhay Jaiswal]()
-- [Arjit]()
-- [Prity]()
-- [Mohit]()
-- [Vikalp]()
-- [Utkarsh]()
+- [Abhay Jaiswal]()                                   - [Arjit]()
+- [Prity]()                                           - [Mohit]()
+- [Vikalp]()                                          - [Utkarsh]()
 - [Karan]()
 - [Piyush]()
 - [Sumedh]()
