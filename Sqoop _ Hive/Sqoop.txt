@@ -1,0 +1,22 @@
+create database healthcare_System;  // In Hive
+
+
+Import data into hive managed tables
+
+sqoop import --connect jdbc:mysql://localhost/healthcare --username  root --password 'password' --table groups_tble  --hive-import --hive-table healthcare_System.groups -m 1;
+
+sqoop import --connect jdbc:mysql://localhost/healthcare --username  root --password 'password' --table subgroup  --hive-import --hive-table healthcare_System.subgroup -m 1;
+
+sqoop import --connect jdbc:mysql://localhost/healthcare --username  root --password 'password' --table group_subgroup  --hive-import --hive-table healthcare_System.grp_subgrp -m 1;
+
+sqoop import --connect jdbc:mysql://localhost/healthcare --username  root --password 'password' --table hospital_details  --hive-import --hive-table healthcare_System.hospital -m 1;
+
+sqoop import --connect jdbc:mysql://localhost/healthcare --username  root --password 'password' --table patient_details  --hive-import --hive-table healthcare_System.patient -m 1;
+
+sqoop import --connect jdbc:mysql://localhost/healthcare --username  root --password 'password' --table disease  --hive-import --hive-table healthcare_System.disease -m 1;
+
+sqoop import --connect jdbc:mysql://localhost/healthcare --username  root --password 'password' --table subscriber  --hive-import --hive-table healthcare_System.subscriber -m 1;
+
+sqoop import --connect jdbc:mysql://localhost/healthcare --username  root --password 'password' --table claims  --hive-import --hive-table healthcare_System.claims -m 1;
+
+
