@@ -1,0 +1,60 @@
+S101,110001,Beriberi
+S101,110002,Scurvy
+S101,110003,Goitre
+S101,110004,Osteoporosis
+S101,110005,Rickets
+S101,110006,Anaemia
+S102,110007,Fractures
+S102,110008,Heart Attack
+S102,110009,Burns
+S102,110010,Choking
+S102,110011,Stroke
+S102,110012,Food Poisoning
+S103,110013,Asthma
+S103,110014,Glaucoma
+S103,110015,Diabetes
+S103,110016,Amnesia
+S103,110017,Parasomnias
+S103,110018,Neurocognitive disorders
+S104,110019,Vertigo
+S104,110020,Lymphedema
+S104,110021,Concussion
+S104,110022,Arthritis
+S104,110023,Whiplash
+S104,110024,Parkinson's disease
+S105,110025,Insecy allergy
+S105,110026,Mold allergy
+S105,110027,Pet allergy
+S105,110028,Pollen allergy
+S105,110029,Drug allergy
+S105,110030,Food allergy
+S106,110031,Suicide
+S106,110032,Smoking
+S106,110033,Sunbathing
+S106,110034,Alcohol consumption
+S106,110035,Head banging
+S106,110036,Drug consumption
+S107,110037,Kidney cancer
+S107,110038,Colorectal cancer
+S107,110039,Bladder cancer
+S107,110040,Melanoma
+S107,110041,Lung cancer
+S107,110042,Breast cancer
+S108,110043,Measles
+S108,110044,Dengue
+S108,110045,Smallpox
+S108,110046,Anthrax
+S108,110047,Cholera
+S108,110048,Malaria
+S109,110049,Cystic fibrosis
+S109,110050,Fanconi anaemia
+S109,110051,Phenylketonuria
+S109,110052,Galactosemia
+S109,110053,Rett Syndrome
+S109,110054,Hemophilia
+S110,110055,Hepatitis
+S110,110056,Mumps
+S110,110057,Pneumonia
+S110,110058,Shingles
+S110,110059,Flu
+S110,110060,Chickenpox
