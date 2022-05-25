@@ -1,0 +1,4 @@
+,col_name,data_type,comment
+0,grpsub_sk,int,
+1,g_id,string,
+2,s_id,string,

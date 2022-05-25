@@ -1,0 +1,6 @@
+,col_name,data_type,comment
+0,hospital_id,string,
+1,hospital_name,string,
+2,city,string,
+3,state,string,
+4,country,string,

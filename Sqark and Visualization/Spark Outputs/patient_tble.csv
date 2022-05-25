@@ -1,0 +1,9 @@
+,col_name,data_type,comment
+0,patient_id,int,
+1,patient_name,string,
+2,patient_gender,string,
+3,patient_birth_date,string,
+4,patient_phone,string,
+5,disease_name,string,
+6,city,string,
+7,hospital_id,string,

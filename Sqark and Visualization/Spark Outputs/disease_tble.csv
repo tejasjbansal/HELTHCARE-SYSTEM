@@ -1,0 +1,4 @@
+,col_name,data_type,comment
+0,disease_id,int,
+1,disease_name,string,
+2,subgrp_id,string,
