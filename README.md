@@ -75,7 +75,7 @@ Data visualization is the representation of data through use of common graphics,
     <td align="center"><a href="https://github.com/abhayjr11"><img src="https://user-images.githubusercontent.com/56173595/170119838-f94e8821-b69f-4574-9442-c73ffa655b88.jpg" width="100px;" alt=""/><br /><sub><b>Abhay</b></sub></a><br /><a href="#" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Arijit-1999"><img src="https://user-images.githubusercontent.com/56173595/170119851-8c0a49f1-d887-43de-91c3-dd8d87a662c1.jpg" width="100px;" alt=""/><br /><sub><b>Arjit</b></sub></a><br /><a href="#" title="Code">💻</a></td>
     <td align="center"><a href="#"><img src="https://user-images.githubusercontent.com/56173595/170120946-fa3861d5-21ee-464f-b7b3-8837441a2456.jpg" width="100px;" alt=""/><br /><sub><b>Prity </b></sub></a><br /><a href="#" title="Code">💻</a></td>
-    <td align="center"><a href="#"><img src="https://user-images.githubusercontent.com/56173595/170120267-40b736de-2b77-4fd1-a7d7-440709506a3e.jpg" width="100px;" alt=""/><br /><sub><b>Mohit</b></sub></a><br /><a href="#" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/mohithirde"><img src="https://user-images.githubusercontent.com/56173595/170120267-40b736de-2b77-4fd1-a7d7-440709506a3e.jpg" width="100px;" alt=""/><br /><sub><b>Mohit</b></sub></a><br /><a href="#" title="Code">💻</a></td>
   </tr>
 <tr>
     <td align="center"><a href="https://github.com/vikalpk13"><img src="https://user-images.githubusercontent.com/56173595/170120304-aa8c58bf-6dea-462e-9498-fcc783233cad.jpg" width="100px;" alt=""/><br /><sub><b>Vikalp</b></sub></a><br /><a href="#" title="Code">💻</a></td>
