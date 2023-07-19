@@ -3,7 +3,7 @@ create database healthcare_System;  // In Hive
 
 Import data into hive managed tables
 
-sqoop import --connect jdbc:mysql://localhost/healthcare --username  root --password 'password' --table groups_tble  --hive-import --hive-table healthcare_System.groups -m 1;
+sqoop import --connect jdbc:mysql://localhost/healthcare --username  root --password 'password1' --table groups_tble  --hive-import --hive-table healthcare_System.groups -m 1;
 
 sqoop import --connect jdbc:mysql://localhost/healthcare --username  root --password 'password' --table subgroup  --hive-import --hive-table healthcare_System.subgroup -m 1;
 
